@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/8d/b2/59/8db259720d98e98b667c35e87b803100.gif)](https://i.pinimg.com/originals/8d/b2/59/8db259720d98e98b667c35e87b803100.gif)
 <h1 align="center">Hi 👋, I'm Trung</h1>
-<h3 align="center">A passionate game developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam</h3>
 <img align="right" alt="Chill" width="400" src="https://i.pinimg.com/originals/89/bb/06/89bb06251fb7401e094b1f6d71f3d3f4.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tqtrung238&label=Profile%20views&color=0e75b6&style=flat" alt="tqtrung238" /> </p>
